@@ -29,4 +29,5 @@
 
 # Resource
 
-- [1주차](https://github.com/Cloud-is-best-beer/Hack_Info/blob/main/blog/week1.md)
+- [공유링크](https://github.com/Cloud-is-best-beer/Hack_Info/blob/main/resource/Link.md)
+- [1주차 blog 내용](https://github.com/Cloud-is-best-beer/Hack_Info/blob/main/blog/week1.md)
