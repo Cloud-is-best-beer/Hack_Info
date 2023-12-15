@@ -12,7 +12,7 @@
 
 # 오픈 카톡방 링크
 
-[맥주는 클라우드](https://open.kakao.com/o/go5bIMPf) 로 입장해 주세요!
+[맥주는 클라우드](https://open.kakao.com/o/g7FhS0Xf) 로 입장해 주세요!
 <br>같이 소통하여 즐겁게 스터디 해봐요!
 
 # 일정
